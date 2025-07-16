@@ -39,7 +39,7 @@ main() — Loads data, trains, tests
 
 Training time: ~30–60 seconds for 1,000 samples
 
-Accuracy: ~90–92% on test set with only 1,000 training examples
+Accuracy: ~90–92% on test set with only 1,000 training examples (results were performed on a laptop)
 
 Memory-efficient: Only keeps data and model in RAM
 
